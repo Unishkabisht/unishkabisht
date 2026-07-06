@@ -1,6 +1,6 @@
-<h1 align="center">Hii! 👋 there, UNISHKA BISHT this side 🧑‍💻</h1>
+<h1 align="center"> UNISHKA BISHT this side </h1>
 
-<h3 align="center">BCA Student • Aspiring Developer | Code. Create. Grow. 🌱</h3>
+<h3 align="center">BCA Student • Aspiring Developer | Code. Create. Grow. </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/unishka-bisht-46b7b2400?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -20,11 +20,11 @@
 
 ---
 
-### 🙋 About Me
+###  About Me
 
 I'm a BCA student who loves both tech and creativity — from content writing to building web projects, I enjoy learning by doing.
 
-Currently deep-diving into Full Stack Development and exploring new technologies. Also into video editing, Canva, and making things look good. 🎬✨
+Currently deep-diving into Full Stack Development and exploring new technologies. Also into video editing, Canva, and making things look good.✨
 
 ---
 

@@ -10,7 +10,7 @@
 
 ---
 
-### ⚡ Overview
+###  Overview
 
 - 🎓 **Currently:** BCA 3rd year, Amrapali University, Haldwani
 - 💼 **Experience:** AIML/Data Science Intern @ YBI Foundation | Content Writing Intern @ InAmigos Foundation
@@ -28,7 +28,7 @@ Currently deep-diving into Full Stack Development and exploring new technologies
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

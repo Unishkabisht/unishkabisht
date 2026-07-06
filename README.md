@@ -49,18 +49,17 @@ Currently deep-diving into Full Stack Development and exploring new technologies
 | Project | Description |
 |---|---|
 | 📄 [**Resume**](https://github.com/Unishkabisht/resume) | Personal resume built with semantic HTML, showcasing my skills, education, contact details and projects — deployed live on GitHub Pages. [Live demo →](https://unishkabisht.github.io/resume/) |
+| 🚀 [**ResumeFlow**](https://github.com/Unishkabisht/resumeflow-landingpage) | A modern SaaS-inspired resume builder landing page built with HTML, CSS, and JavaScript, featuring responsive design, authentication pages, reusable components, interactive UI, and a premium dark theme. [Live demo →](https://resumeflow-landingpage.vercel.app/) |
 | 🎮 [**GuessMaster**](https://github.com/Unishkabisht/guessmaster) | A browser-based number guessing game built with HTML, CSS, and JavaScript, featuring an interactive gradient UI. |
 | 🃏 [**Profile Card**](https://github.com/Unishkabisht/Profile-card) | A clean profile card UI with avatar initials, name, role, bio, and contact button — brown, beige, and black theme. |
 | 🎨 [**Button Collection**](https://github.com/Unishkabisht/Button-collection-css) | A showcase of 10 CSS button styles — Solid, Outline, Pill, Ghost, Dark, Beige, Icon, Underline, Small, and Wide — each with hover states. |
+
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unishkabisht&show_icons=true&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unishkabisht&theme=dark&hide_border=true" width="48%">
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unishkabisht&theme=dark&hide_border=true" width="60%"> </p>
 
 ---
 

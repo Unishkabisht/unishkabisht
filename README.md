@@ -3,7 +3,7 @@
 <h3 align="center">BCA Student • Aspiring Developer | Code. Create. Grow. 🌱</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/unishka-bisht-46b7b2400?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:unishkabisht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://unishkabisht.github.io/resume/"><img src="https://img.shields.io/badge/Resume-View-8B5E3C?style=for-the-badge"></a>
 </p>

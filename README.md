@@ -48,7 +48,7 @@ Currently deep-diving into Full Stack Development and exploring new technologies
 
 | Project | Description |
 |---|---|
-| 📄 [**Resume**](https://github.com/Unishkabisht/resume) | Personal resume built with semantic HTML, showcasing my skills, education, contact details and projects — deployed live on GitHub Pages. [Live demo →](creating-resume-two.vercel.app) |
+| 📄 [**Resume**](https://github.com/Unishkabisht/resume) | Personal resume built with semantic HTML, showcasing my skills, education, contact details and projects — deployed live on GitHub Pages. [Live demo →](https://creating-resume-two.vercel.app)
 | 🚀 [**ResumeFlow**](https://github.com/Unishkabisht/resumeflow-landingpage) | A modern SaaS-inspired resume builder landing page built with HTML, CSS, and JavaScript, featuring responsive design, authentication pages, reusable components, interactive UI, and a premium dark theme. [Live demo →](https://resumeflow-landingpage.vercel.app/) |
 | 🎮 [**GuessMaster**](https://github.com/Unishkabisht/guessmaster) | A browser-based number guessing game built with HTML, CSS, and JavaScript, featuring an interactive gradient UI. |
 | 🃏 [**Profile Card**](https://github.com/Unishkabisht/Profile-card) | A clean profile card UI with avatar initials, name, role, bio, and contact button — brown, beige, and black theme. |

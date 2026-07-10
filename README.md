@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/unishka-bisht-46b7b2400?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:unishkabisht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://unishkabisht.github.io/resume/"><img src="https://img.shields.io/badge/Resume-View-8B5E3C?style=for-the-badge"></a>
+  <a href="creating-resume-two.vercel.app"><img src="https://img.shields.io/badge/Resume-View-8B5E3C?style=for-the-badge"></a>
 </p>
 
 ---
@@ -48,7 +48,7 @@ Currently deep-diving into Full Stack Development and exploring new technologies
 
 | Project | Description |
 |---|---|
-| 📄 [**Resume**](https://github.com/Unishkabisht/resume) | Personal resume built with semantic HTML, showcasing my skills, education, contact details and projects — deployed live on GitHub Pages. [Live demo →](https://unishkabisht.github.io/resume/) |
+| 📄 [**Resume**](https://github.com/Unishkabisht/resume) | Personal resume built with semantic HTML, showcasing my skills, education, contact details and projects — deployed live on GitHub Pages. [Live demo →](creating-resume-two.vercel.app) |
 | 🚀 [**ResumeFlow**](https://github.com/Unishkabisht/resumeflow-landingpage) | A modern SaaS-inspired resume builder landing page built with HTML, CSS, and JavaScript, featuring responsive design, authentication pages, reusable components, interactive UI, and a premium dark theme. [Live demo →](https://resumeflow-landingpage.vercel.app/) |
 | 🎮 [**GuessMaster**](https://github.com/Unishkabisht/guessmaster) | A browser-based number guessing game built with HTML, CSS, and JavaScript, featuring an interactive gradient UI. |
 | 🃏 [**Profile Card**](https://github.com/Unishkabisht/Profile-card) | A clean profile card UI with avatar initials, name, role, bio, and contact button — brown, beige, and black theme. |

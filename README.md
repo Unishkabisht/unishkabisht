@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Unishka+Bisht;Frontend+Web+Developer;BCA+Student+%7C+Amrapali+University;Full+Stack+Dev+Intern+%40+The+Big+Class" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Unishka+Bisht;BCA+Student+%7C+Amrapali+University;Diving+Deep+Into+Web+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -48,34 +48,29 @@ I'm a BCA 3rd year student at Amrapali University, Haldwani. My core strength is
 
 I enjoy taking a design and turning it into accurate, accessible markup — semantic HTML, external CSS, minimal JS, and layouts that work well on any screen size.
 
+**Open to:** Frontend Developer Internships · Web Development Opportunities
 
 ---
 
 ## Tech Stack
 
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark"/>
 </p>
 
----
+### Frontend
 
-## Experience
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+</p>
 
-### AIML / Data Science Intern — YBI Foundation
+### Tools & Platforms
 
-### Content Writing Intern — InAmigos Foundation
-
----
-
-## Certifications
-
-<div align="center">
-
-![YBI Foundation](https://img.shields.io/badge/YBI_Foundation-AIML_%2F_Data_Science-0F9D58?style=flat-square)
-&nbsp;
-![InAmigos Foundation](https://img.shields.io/badge/InAmigos_Foundation-Content_Writing-4285F4?style=flat-square)
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vercel,figma,ps&theme=dark"/>
+</p>
 
 ---
 
@@ -95,13 +90,13 @@ I enjoy taking a design and turning it into accurate, accessible markup — sema
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Unishkabisht&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=Unishkabisht&show_icons=true&theme=tokyonight&border_radius=10" />
 &nbsp;
 <img height="175" src="https://streak-stats.demolab.com/?user=Unishkabisht&theme=tokyonight&hide_border=false" />
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unishkabisht&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" />
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Unishkabisht&layout=compact&theme=tokyonight&border_radius=10" />
 
 </div>
 
@@ -111,12 +106,12 @@ I enjoy taking a design and turning it into accurate, accessible markup — sema
 
 ```yaml
 Learning:
-  - Full Stack Development fundamentals
   - Semantic HTML & accessible markup
   - Responsive, framework-free CSS
+  - JavaScript fundamentals
 
 Building:
-  - Frontend projects for The Big Class internship
+  - Frontend projects
   - Personal dev learning journal
 
 Open To:
@@ -148,7 +143,6 @@ Open To:
 <div align="center">
 
 *building in public, learning in real time.* 🚀
-*debug better at night.*🌃
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 

@@ -48,7 +48,6 @@ I'm a BCA 3rd year student at Amrapali University, Haldwani. My core strength is
 
 I enjoy taking a design and turning it into accurate, accessible markup — semantic HTML, external CSS, minimal JS, and layouts that work well on any screen size.
 
-**Open to:** Frontend Developer Internships · Web Development Opportunities
 
 ---
 
@@ -104,19 +103,17 @@ I enjoy taking a design and turning it into accurate, accessible markup — sema
 
 ## Current Focus
 
-```yaml
-Learning:
+### Learning:
   - Semantic HTML & accessible markup
   - Responsive, framework-free CSS
   - JavaScript fundamentals
 
-Building:
+### Building:
   - Frontend projects
   - Personal dev learning journal
 
-Open To:
+### Open To:
   - Frontend Developer internships
-```
 
 ---
 

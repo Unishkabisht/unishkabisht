@@ -100,6 +100,7 @@ I enjoy taking a design and turning it into accurate, accessible markup — sema
 </div>
 
 ---
+---
 
 ## Current Focus
 
@@ -115,6 +116,7 @@ I enjoy taking a design and turning it into accurate, accessible markup — sema
 ### Open To:
   - Frontend Developer internships
 
+---
 ---
 
 ## Connect

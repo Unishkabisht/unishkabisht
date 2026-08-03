@@ -64,17 +64,19 @@ I enjoy taking a design and turning it into accurate, accessible markup — sema
 </p>
 
 ---
+---
 
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| 📄 [**Resume**](https://github.com/Unishkabisht/resume) | Personal resume built with semantic HTML — no divs, no spans. [Live →](https://creating-resume-two.vercel.app) |
-| 🚀 [**ResumeFlow**](https://github.com/Unishkabisht/resumeflow-landingpage) | SaaS-style resume builder landing page — HTML, CSS, JS, dark theme, fully responsive. [Live →](https://resumeflow-landingpage.vercel.app/) |
-| 🎮 [**GuessMaster**](https://github.com/Unishkabisht/guessmaster) | Browser-based number guessing game with a gradient UI. [Live →](https://guessmaster-dusky.vercel.app/) |
-| 🃏 [**Profile Card**](https://github.com/Unishkabisht/Profile-card) | Clean profile card UI — avatar, name, role, bio, contact button. |
-| 🎨 [**Button Collection**](https://github.com/Unishkabisht/Button-collection-css) | 10 CSS button styles with hover states — Solid, Outline, Pill, Ghost, and more. |
+| [**Resume**](https://github.com/Unishkabisht/resume) | Personal resume built with semantic HTML — no divs, no spans. [Live →](https://creating-resume-two.vercel.app) |
+| [**ResumeFlow**](https://github.com/Unishkabisht/resumeflow-landingpage) | SaaS-style resume builder landing page — HTML, CSS, JS, dark theme, fully responsive. [Live →](https://resumeflow-landingpage.vercel.app/) |
+| [**WeatherApp**](https://github.com/Unishkabisht/weather-app) | Responsive weather application that displays real-time weather information for any city using a weather API. Built with HTML, CSS, and JavaScript. [Live →](https://weather-app-rho-rust-53.vercel.app/) |
+| [**GuessMaster**](https://github.com/Unishkabisht/guessmaster) | Browser-based number guessing game with a gradient UI. [Live →](https://guessmaster-dusky.vercel.app/) |
+| [**Profile Card**](https://github.com/Unishkabisht/Profile-card) | Clean profile card UI — avatar, name, role, bio, contact button. |
 
+---
 ---
 
 ## GitHub Analytics

@@ -40,7 +40,7 @@
 
 ## About
 
-I'm a BCA 3rd year student at Amrapali University, Haldwani. My core strength is the frontend — building clean, semantic, responsive interfaces with HTML, CSS, and JavaScript, without relying on frameworks.
+I'm a BCA 3rd year student at Amrapali University, Haldwani. My core strength is the frontend — building clean, semantic, responsive interfaces with HTML, CSS, and JavaScript, working on frameworks like angular l.
 
 I enjoy taking a design and turning it into accurate, accessible markup — semantic HTML, external CSS, minimal JS, and layouts that work well on any screen size.
 

@@ -97,15 +97,14 @@ I enjoy taking a design and turning it into accurate, accessible markup — sema
 
 ### Learning:
   - Semantic HTML & accessible markup
+  - Angular framework 
   - Responsive, framework-free CSS
-  - JavaScript fundamentals
+  - Advance JavaScript 
 
 ### Building:
   - Frontend projects
-  - Personal dev learning journal
-
-### Open To:
-  - Frontend Developer internships
+  - Full Stack Projects
+  - Documenting my learning 
 
 ---
 

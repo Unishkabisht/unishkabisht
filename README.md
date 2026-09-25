@@ -3,17 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Unishka+Bisht"alt="Typing SVG" />
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/BCA_3rd_Year-Amrapali_University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Haldwani,_Uttarakhand-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
-</p>
-<p>
   <a href="https://portfolio-unishkabisht-s27e.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://creating-resume-two.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/unishka-bisht-46b7b2400" target="_blank">

@@ -70,9 +70,6 @@ I enjoy taking a design and turning it into accurate, accessible markup — sema
 ---
 ---
 
-## My GitHub Activity Graph
-![](https://github-readme-activity-graph-livid-ten.vercel.app/graph?username=Unishkabisht&theme=react-dark&bg_color=00000000&hide_border=true)
-
 ## GitHub Analytics
 
 <div align="center">
